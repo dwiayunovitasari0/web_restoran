@@ -1,0 +1,17 @@
+body {
+    width: 800px;
+    margin: 10px auto;
+    box-sizing: border-box;
+    background-color: rgb(78, 253, 72);
+    color: rgb(5, 46, 17);
+    
+}
+
+a:hover {
+    color: rgb(197, 32, 2);
+
+}
+
+footer {
+    font-weight: bold;
+}
